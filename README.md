@@ -15,15 +15,15 @@ This is a pizza ordering app project built with React with following functionali
 
 ---
 
-<img width="600px" src="https://github.com/aytacserce/react-17-the-wild-oasis/blob/main/FastReactPizza-screenshot-1.png?raw=true" />
+<img width="600px" src="https://github.com/aytacserce/react-16-fast-react-pizza/blob/main/FastReactPizza-screenshot-1.png?raw=true" />
 
 ---
 
-<img width="600px" src="https://github.com/aytacserce/react-17-the-wild-oasis/blob/main/FastReactPizza-screenshot-2.png?raw=true" />
+<img width="600px" src="https://github.com/aytacserce/react-16-fast-react-pizza/blob/main/FastReactPizza-screenshot-2.png?raw=true" />
 
 ---
 
-<img width="600px" src="https://github.com/aytacserce/react-17-the-wild-oasis/blob/main/FastReactPizza-screenshot-3.png?raw=true" />
+<img width="600px" src="https://github.com/aytacserce/react-16-fast-react-pizza/blob/main/FastReactPizza-screenshot-3.png?raw=true" />
 
 ---
 
